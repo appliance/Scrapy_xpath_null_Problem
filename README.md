@@ -13,5 +13,7 @@ b)	etree.HTML(str)	将str类型的html语句转化为html形式，此形式可�
 c)	创建一个集合，保存所有的值
 d)	最后用item[]字典保存刚刚保存的集合
 3、	代码如下
- 
+ ![Alt Text](
+     https://github.com/appliance/Scrapy_xpath_null_Problem/blob/master/2.png
+    )
 
