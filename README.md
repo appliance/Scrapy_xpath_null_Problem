@@ -3,7 +3,7 @@ scrapy爬虫xpath自动跳过值为空的元素问题（对item进行处理）
 scrapy爬虫xpah自动跳过值为空的问题
 问题：要爬此页面的数据，结果球衣号不全，造成各列数据爬取后不对齐的问题。
  ![Alt Text](
-     https://github.com/appliance/Scrapy_Selenium_PhantomJS/blob/master/1.png
+     https://github.com/appliance/Scrapy_xpath_null_Problem/blob/master/1.png
     )
 解决方法：
 1、	利用xpath将html结构数据获取保存在一个集合中
